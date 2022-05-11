@@ -1,0 +1,59 @@
+*List of 50 objects-
+1. mobile
+2. television: company name, model, color, pixels, color, tv type, price, 
+               warranty, dimensions, model no
+3. ac
+4. remote
+5. fan
+6. board
+7. table
+8. chair
+9. cup
+10. shoes
+11. scissors
+12. shirt
+13. jeans
+14. sweater
+15. pen: brand, type, color, mfg, price, grip, batch no,  
+16. pencil
+17. car
+18. bus
+19. train
+20. laptop
+21. lcd
+22. wire
+23. watch
+24. balloon 
+25. thread
+26. mother: first name, middle name, surname, age, gender, adhaar no, pancard no, height, weight, birth date
+27. sister
+28. father
+29. employee: department, position, employee id, skills, age, experience, employer name, works in, 
+30. employer
+31. manager
+32. director
+33. teacher
+34. principal
+35. brother
+36. colleague
+37. partner
+38. wife
+39. husband
+40. doctor
+41. daughter
+42. son
+43. niece
+44. engineer
+45. nurse
+46. clerk
+47. friend
+48. classmate
+49. chairman
+50. sister in law
+
+*List of 10 attributes for 10 objects
+
+1. car
+   insurance no, number plate, color, company name, model no, owner name, price, discount, speed limit
+2. mobile
+   company name, mobile name, camera pixels, battery, color, length, width, weight, warranty, discount

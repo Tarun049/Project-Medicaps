@@ -1,0 +1,156 @@
+**Student management system
+ 
+   1.student
+	Name-Ram tiwari
+	Roll no- 23
+	Enollment no- CS2321
+	Mob no- 9912342211
+	Email id- ram123@gmail.com
+	Address- indore
+	Gender- male
+	DoB- 12/1/2001
+	Branch- CS
+	Semester- 3
+
+
+**Stock management system
+   
+   1. Buyer
+	Buyer id-44343
+	First Name- ram
+	Last name- tiwari
+	Mob no- 9912342211
+	Email id-ram123@gmail.com
+	Address- indore
+	Acc no- 1234333
+	Adhar no-534223
+	Pancard no- jkh24432
+	Stocks purchased- 23
+	
+   2. Company
+	Name- reeva
+	Company id- c223
+	CEO- ram
+	per stock diluted- 32
+	stocks sold- 5432
+	no of buyer- 432
+	dividend- 3
+	contact- 0731-666443
+
+    3. Dealer-
+	id-56356
+	Name- raj goyal
+	Mob no- 8776567422
+	Email id- raj@gmail.com
+	Stocks handled- 65647
+	Adhaar no- 7654698678
+	Address- indore
+	
+    4. Stock
+	id-st4345
+	Company id- c223
+	owned by- 44343
+	price- 434
+	sgst%-6
+	cgst%-10
+	
+	
+**Hospital management system
+
+   1. Patient
+	id- 998344
+	Name- ram tiwari
+	DoB- 12/01/2001
+	age- 21
+	Gender- male
+	Mob no- 9912342211
+	Email id- ram123@gmail.com
+	Symptoms- vomitting, fever
+	Blood group- A
+	Disease- viral fever
+	Address- indore
+
+   2. Doctor
+	id- d3232
+	Name- arpit rawat
+	Gender- male
+	Mob no- 9976543221
+	Address- indore
+	Age- 45
+	Qualification- MS(orthopaedist)
+	Experience years- 15
+	college- MGM indore
+	Success rate- 96
+
+   3. Attender
+	Name- siya tiwari
+	id-a3322
+	Patient id- 998344
+	mob no- 9886865736
+	Address- indore
+	Gender- female
+	relation- sister
+	Adhaar no- 6546489767
+	Email id- siya@gmail.com
+	
+    4. Nurse
+	id- s7675
+	Name- rani jha
+	Mob no- 987887877
+	Age-40
+	Gender- female
+	Address- indore
+	Experience- 13
+	Adhaar no- 83748763
+	can do- 
+
+    5. Room
+	Room no- 409
+	No of bed- 2
+	Type- intensive care unit
+	Patient alloted- 998344
+	Doctor alloted- d3232
+	Charge- 5000
+	
+	
+	
+	
+***functions
+
+1. sgst cal
+2. cgst cal
+3. rectangle area
+3. profit cal
+4. loss cal
+5. discount amount cal
+6. rectangle perimeter cal
+7. square area
+8. square perimeter
+9. cone volume
+10. cone total surface area
+11. cylinder volume
+12. sphere volume
+13. total amount 
+14. average
+15. percentage
+16. speed
+17. velocity
+18. acceleration
+19. power
+20. simple interest
+21. compound interest
+22. total time
+23. semisphere volume
+24. steps walked
+25. addition
+26. subtraction
+27. density
+28. polynomial roots
+29. pulse rate
+30. display series
+31. time display
+32. oxygen level
+33. automatic sleep mode
+34. 
+	
+	
